@@ -1,0 +1,41 @@
+.foter{
+display: flex;
+width: 100vw;
+background:linear-gradient(45deg, #0c7ee9, #5375b6, #145081, #2e6ada);
+background-size: 600% 200%;
+animation: gradient 30s linear infinite;
+animation-direction: alternate;
+margin:0;
+flex-direction: row;
+flex-wrap: nowrap;
+justify-content: space-around;
+align-items: center;
+color: white;
+grid-area: foter;
+}
+@keyframes gradient{
+ 0% {background-position: 0%}
+100% {background-position: 100%}
+ }
+
+.foter1{
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+justify-content: flex-start;
+align-items: flex-start;
+align-content: flex-start;
+padding-right: 1rem;
+}
+.foter2{
+font-size: 32;
+}
+.txt_big_fotter{
+font-size: 26;
+}
+.txt_medium_fotter{
+font-size: 18;
+}
+.foter-fas{
+padding-right: 0.5rem;
+}

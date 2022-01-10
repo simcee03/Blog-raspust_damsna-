@@ -1,0 +1,17 @@
+.grid_view{
+display: grid;
+grid-template-rows: 8vh 79.5vh 8vh;
+grid-template-areas: 'header' 'main' 'foter';
+row-gap: 1em;
+}
+.main{
+display: grid;
+grid-template-columns: 20vw 80vw;
+grid-template-areas: 'main_name mainB';
+}
+
+.main2{
+display: grid;
+grid-template-columns: 44vw 28vw;
+grid-template-areas:'main_cntr main_side' ;
+}

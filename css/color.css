@@ -1,0 +1,88 @@
+.color1{
+background: none;
+transition: 0.3s all ease 0s;
+}
+.color1:hover{
+background: #FEA443;
+color: white;
+box-shadow: 0px 0px 15px  rgba(236, 165, 34, 0.96);
+}
+
+.color2{
+background: none;
+transition: 0.3s all ease 0s;
+}
+.color2:hover{
+background: #6db9ce;
+color: white;
+box-shadow: 0px 0px 15px  rgba(93, 235, 240, 0.96);
+
+}
+    
+.color3{
+background: none;
+transition: 0.3s all ease 0s;
+}
+.color3:hover{
+background: #6cd1b1;
+color: white;
+box-shadow: 0px 0px 15px  rgba(73, 238, 188, 0.96);
+
+}
+
+.color4{
+background: none;
+transition: 0.3s all ease 0s;
+}
+.color4:hover{
+background: #0fce0f;
+color: white;
+}
+
+.color5{
+background: none;
+transition: 0.3s all ease 0s;
+}
+.color5:hover{
+background: #cf2727 ;
+color: white;
+}
+
+.color6{
+color: rgba(16, 106, 224);
+}
+
+.color7{
+color: white;
+}
+
+.color8{
+background: none;
+transition: 0.3s all ease 0s;
+}
+.color8:hover{
+background: #0f6faf ;
+color: white;
+}
+
+.color9{
+background: none;
+transition: 0.3s all ease 0s;
+}
+.color9:hover{
+background: #bfc931 ;
+color: white;
+box-shadow: 0px 0px 15px  rgba(223, 240, 74, 0.96);
+
+}
+
+.color10{
+background: none;
+transition: 0.3s all ease 0s;
+}
+.color10:hover{
+background: #a948c7 ;
+color: white;
+box-shadow: 0px 0px 15px  rgba(158, 65, 219, 0.96);
+
+}

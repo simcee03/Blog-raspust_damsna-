@@ -1,0 +1,38 @@
+@media screen and (min-width:100px) and (max-width:1430px){
+    .main2{
+        grid-template-columns: 80vw;
+        grid-template-areas:'main_cntr'; 
+    }
+    .main_side{
+    display: none;
+    }
+    .main_cntr{
+    width: 78vw;
+    }
+    .new_sort_circle{
+    height: 7vh;
+    width: 5vw;
+    }
+    .scrolable_cont_contianer{
+     width: 40vw;
+    height: 52vh;
+    }
+    .prf_img{
+    width: 5vw;
+    height: 7vh;
+    }  
+    
+    .img_cont1{
+    border-radius: 50%;
+    width: 2.5vw;
+    height: 3.5vh;
+    }
+
+    .text_menu{
+    font-size: 20;
+    }
+    
+    .nav_friend{
+     visibility: visible;
+    } 
+}

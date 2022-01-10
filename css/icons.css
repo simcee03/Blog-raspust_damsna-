@@ -1,0 +1,32 @@
+.fa-small{
+font-size: 40;
+color: white;
+padding-left: 1vw;
+padding-right: 1vw;
+}
+.fa-xsmall{
+font-size: 21;
+color: white;
+}
+.fas-nav{
+font-size: 32;
+color: white;
+}
+.txt_small{
+font-size: 14;
+color: black;
+}
+.fas-main{
+padding-right: 0.1rem;
+font-size: 26;
+}
+
+.fa-small_main{
+font-size: 28;
+color: white;
+}
+
+.fa-xsmall_main{
+font-size: 24;
+color: white;
+}
